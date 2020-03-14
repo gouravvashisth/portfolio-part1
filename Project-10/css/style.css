@@ -1,0 +1,148 @@
+.content{
+    background-color:grey;
+    height: 580px;
+   
+
+}
+.content1{
+    background-color:lightgrey;
+}
+.photo{
+  border-radius:50%;
+  padding-left:4px;
+  padding-top: 5px;
+ margin-left: 28px;
+ margin-top: 110px;
+}
+.pic{
+    height:140px ;
+    width:140px ;
+    border-radius: 50%;
+}
+.pic:hover{
+    height: 160px;
+    width: 160px;
+   margin-left: -12px;
+
+}
+.navbar{
+    margin-top: 20px;
+    margin-left: -2px;
+  
+}
+.tg{
+    border-radius: 20%;
+    background-color:;
+    padding-top: 2px;
+    padding-right: 20px;
+}
+.tgg{
+    margin: 12px;
+}
+.tggg{
+    font-weight: 800;
+    color: black;
+}
+.tgg:hover{
+    color: white !important;
+}
+.con{
+ 
+    padding-left: 60px;
+    margin-top: 120px;
+}
+.name{
+color:black;
+font-size: 65px;
+font-weight: 600;
+font-family: Arial, Helvetica, sans-serif;
+}
+.sur{
+    color:red;
+}
+.add{
+  color:grey;
+   margin: 3px;
+   padding-top: 0px;
+   padding-bottom: 8px;
+  margin-left: 20px;
+  font-weight: 600;
+}
+.anchor{
+    color:red;
+   
+}
+.intro{
+    
+   margin-top: 40px;
+   margin-left: 20px;
+   margin-right: 170px;
+   padding: 2px;
+}
+.para{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: grey;
+}
+.logo{
+    
+    margin-top: 25px;
+    margin-right: 20px;
+    margin-left: 25px;
+    padding: 0px;
+    padding-left: 0px;
+    font-size: 50px;
+    color: gray;
+    
+}
+.logo1{
+    margin: 2px;
+    color: gray;
+}
+.logo1:hover{
+    color: wheat;
+
+}
+.exp{
+    
+    margin-top:130px ;
+    padding-left: 40px;
+}
+.exp1{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.exp2{
+
+margin-top: 40px;
+margin-left: 20px;
+
+}
+.ee{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+   padding-bottom: 8px;
+
+}
+.eee{
+    font-size: 10px;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.ss{
+   margin: 290px;
+    font-size: 10px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+}
+.excont{
+    background-color:firebrick;
+    margin-top: 30px;
+    margin-right: 20px;
+    padding: 8px;
+}
